@@ -18,3 +18,21 @@ Uma das questões centrais do projeto foi determinar se a taxa de churn estava d
 4) Qual é o meio de pagamento que impacta na taxa churn? 
 
 Por meio da análise de churn, identificamos que os clientes que optavam pelo check eletronic como método de pagamento apresentavam uma taxa de churn significativamente menor em comparação com aqueles que optavam por pagamento cartão de credito. Esse insight sugeriu a importância de incentivar os clientes a adotarem o Cartão de crédito como meio de pagamento preferencial. 
+
+) Qual Plano tem a maior taxa de churn? 
+
+Outra pergunta crucial que abordamos foi identificar qual plano ou serviço tinha a maior taxa de churn. Descobrimos que os palnos mensais apresentava consistentemente a maior taxa de churn entre todos os produtos oferecidos pela empresa. Essa informação direcionou os esforços da empresa para revisar e melhorar a qualidade desse serviço, visando reduzir a taxa de churn associada a ele. 
+
+6) Qual é o mês de fidelização do Cliente? 
+
+Por meio da análise de churn, pudemos identificar o período médio em que os clientes demonstravam maior fidelidade à empresa. Descobrimos que, em média, os clientes atingiam um ponto de fidelização após três meses de utilização dos serviços da Telco. Esse insight foi crucial para ajustar as estratégias de retenção e garantir uma experiência satisfatória do cliente desde o início do relacionamento com a empresa. 
+
+7) Prevendo quem está entrando em churn? 
+
+Por fim, utilizamos técnicas avançadas de análise preditiva para prever quais clientes estavam em risco de entrar em churn. Ao aplicar modelos de machine learning aos dados históricos, desenvolvemos um sistema de pontuação de churn que identificava os clientes com maior probabilidade de cancelar os serviços. Essa abordagem permitiu à empresa adotar medidas preventivas direcionadas, como ofertas personalizadas e intervenções proativas, para evitar o churn antes que ele ocorresse. 
+
+Conclusão 
+
+Através deste projeto de análise de churn, a Telco obteve insights valiosos que impulsionaram suas estratégias de retenção de clientes. Ao responder às sete perguntas fundamentais do negócio, a empresa pôde compreender melhor o comportamento dos clientes, identificar áreas de melhoria e implementar medidas proativas para reduzir o churn. Com uma abordagem baseada em dados, a Telco está posicionada para fortalecer seu relacionamento com os clientes e garantir um crescimento sustentável no mercado de telecomunicações. 
+
+ 
