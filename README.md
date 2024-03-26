@@ -1,5 +1,5 @@
 # Análise Churn na empresa Telco
-Análise de Churn: Desenvolvimento de Projeto e Descoberta de Insights 
+Desenvolvimento de Projeto e Descoberta de Insights 
 
 No cenário altamente competitivo das telecomunicações, a retenção de clientes é crucial para o sucesso de uma empresa. Diante desse desafio, a Telco empreendeu um projeto abrangente de análise de churn, com o objetivo de entender os padrões de comportamento dos clientes e desenvolver estratégias eficazes de retenção. Ao longo deste projeto, buscamos responder a sete perguntas fundamentais para o negócio, fornecendo insights valiosos para a tomada de decisões estratégicas. 
 
